@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef _LOG_H_
+#define _LOG_H_
 
 #include "shell.h"
 
@@ -12,4 +12,4 @@ int add_log(sev_t *sev);
 int write_log(sev_t *sev);
 int get_log_count(sev_t *sev);
 
-#endif /* _MAIN_H_ */
+#endif /* _LOG_H_ */

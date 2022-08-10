@@ -1,4 +1,4 @@
-#include "main.h"
+#include "log.h"
 /**
  * add_log - add input from the user to log
  * @sev: ptr to shell env var link list

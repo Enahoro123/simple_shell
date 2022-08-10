@@ -19,7 +19,7 @@
 #include "./builtinfile/builtin.h"
 #include "./errorfile/error.h"
 #include "./shellhelperfile/shellhelper.h"
-#include "main.h"
+#include "log.h"
 #define SPACE " "
 #define EQUAL "="
 #define COLON ":"
